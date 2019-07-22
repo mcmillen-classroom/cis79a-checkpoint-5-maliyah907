@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+
+    <string name="question_text">Placeholder for first question...</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+
+    <string name="next_button">Next</string>
+    <string name="previous_button">Previous</string>
+    <string name="hint_button">Hint</string>
+
+    <string name="cheat_button">Cheat!</string>
+    <string name="cheat_warning">Are you sure you want to cheat? Cheaters never win!</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="cheat_shame">CHEATERS NEVER WIN!</string>
+
+    <string name="question_1">Little Mama\'s Bakery is where Chandler and Rachel stole cheesecake from.</string>
+    <string name="question_2">Joey has nine sisters.</string>
+    <string name="question_3">Ross divorced 4 times.</string>
+    <string name="question_4">How many babies did Phoebe have?</string>
+    <string name="question_5">Chandler is forced to work in Tahoma after falling asleep in a meeting.</string>
+
+    <string name="question_1_hint">This bakery was in Chicago.</string>
+    <string name="question_2_hint">The number is large.</string>
+    <string name="question_3_hint">What are the names of all his ex wives?</string>
+    <string name="question_4_hint">She carried these children for her brother.</string>
+    <string name="question_5_hint">The state is Oklahoma.</string>
+    <string name="check_button">Check</string>
+
+    <string-array name="question_4_answers">
+        <item>3</item>
+        <item>three</item>
+        <item>Three</item>
+    </string-array>
+</resources>
